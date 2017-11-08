@@ -2,8 +2,9 @@ package com.dejan.dejan.dejanKlasa;
 
 public class MojaKlasa {
 
+    public String dejan(){
 
-    public void dejan(){
+        return "Ovo radi";
+    };
 
-    }
 }
